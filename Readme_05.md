@@ -50,7 +50,7 @@ The app uses the OpenWeatherMap API to fetch weather data. Ensure you have a val
 
 ```javascript
 const apiKey = 'your-api-key-here';
-
+```
 ### Contact
 
 - Devansh Mishra 
